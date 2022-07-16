@@ -33,8 +33,8 @@
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/Synthwave-Preview5.png)
 
 ## Misc
-* If you need support, please ask in the _#theme-support_ channel on the <a href="https://discord.gg/0Tmfo5ZbORCRqbAd">BetterDiscord</a> Discord server.
-* If you like this theme, please consider giving it a <a href="https://betterdiscord.app/theme/Synthwave%20%2784">like</a>. It will help other people discover this theme.
+* If you find an issue, please submit a <a href="https://github.com/CelestialReaver/Synthwave84-DiscordWeb/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">new issue</a>.
+* If you like this theme, please consider giving it a <a href="https://userstyles.org/styles/245597/synthwave-84">thumbs up</a>. It will help other people discover this theme.
 
 ## Credits
 <a href="https://github.com/CelestialReaver">CelestialReaver</a>
