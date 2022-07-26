@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif"><img src="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif" title="source: github.com" /></a></h1>
-<p align="center">A unique retro theme that provides the perfect glow and vibe to your Discord web client.</p>
+<p align="center">A unique retro theme that provides the perfect glow and vibe to your Discord.</p>
 
 </br>
 
@@ -18,6 +18,14 @@
 <p align="left"><b>Status Marquee</b>:</p>
 
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/MarqueeStatus.gif)
+
+<p align="left"><b>Clean and Animated Spotify Controls </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SpotifyControls.gif)
+
+<p align="left"><b>Animated Emoji and Sticker Matching </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/InteractiveMatching.gif)
 
 ## Screenshots
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/synthwaveCoverGif.gif)
