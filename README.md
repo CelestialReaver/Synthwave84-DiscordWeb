@@ -47,6 +47,8 @@ You need to have the Stylish browser add-on installed in either Chrome or Firefo
 
 Once the extension is installed go to the <a href="https://userstyles.org/styles/245597/synthwave-84">Synthwave '84</a> page and click on _Install Style_.
 
+>While not required, I recommend you install this theme as a userscript. You can find that option on the URL above, scroll down and clicking on _Install style as userscript_. I recommend this because some of the built in animations won't work otherwise. Again, not required to enjoy the overall look and feel of the theme!
+
 That's it! You can now enjoy the Synthwave '84 theme in the Discord web client.
 ## Misc
 * If you find an issue, please submit a <a href="https://github.com/CelestialReaver/Synthwave84-DiscordWeb/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">new issue</a>.
