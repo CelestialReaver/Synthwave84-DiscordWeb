@@ -665,7 +665,6 @@
         border-radius: inherit;
     }
 
-<<<<<<< HEAD
     .grid-1aWVsE {
         overflow: hidden;
         padding: .5rem 1rem 1rem .75rem;
@@ -682,8 +681,6 @@
         height: 100% !important;
     }
 
-=======
->>>>>>> 80046e19375a1e1245a4faff854ca4e94da3e91c
     .ChannelDms-channelmembers-wrap .ChannelDms-channelmembers-header {
         text-transform: none;
         padding: 10px 0;
@@ -809,7 +806,7 @@
     .bd-tab-item.selected {
         cursor: default;
         background-color: var(--backgroundColor01);
-      }
+    }
 
     .card-2xlCYc:hover {
         background-color: var(--backgroundColor02) !important;
@@ -948,15 +945,14 @@
         position: relative;
     }
 
-<<<<<<< HEAD
     .header-1sd0RU {
         background-color: var(--backgroundColor01);
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-      }
+    }
 
-      .card-8UsK4b {
+    .card-8UsK4b {
         background-color: var(--backgroundColor01);
         padding: 16px 16px 12px;
         border-radius: 8px;
@@ -964,10 +960,8 @@
         -webkit-transition: border-color .5s;
         transition: border-color .5s;
         cursor: pointer;
-      }
+    }
 
-=======
->>>>>>> 80046e19375a1e1245a4faff854ca4e94da3e91c
     #app-mount .premiumIndicator-22GgcZ {
         background-color: rgb(210 109 208) !important;
         box-shadow: rgb(210 109 208) 2px 3px 21px -3px !important;
@@ -1323,7 +1317,6 @@
         top: -1px !important;
     }
 
-<<<<<<< HEAD
     .text-sm-medium-3Pz3rB,
     .text-sm-normal-3Zj3Iv {
         font-family: var(--font-primary);
@@ -1376,8 +1369,6 @@
         color: var(--gradientColor02) !important;
     }
 
-=======
->>>>>>> 80046e19375a1e1245a4faff854ca4e94da3e91c
     .communityInfoVisible-3zc5_s .header-3OsQeK,
     .communityInfoVisible-3zc5_s .header-3OsQeK:hover,
     .hasBanner-2IrYih .header-3OsQeK,
@@ -1849,7 +1840,6 @@
         height: 14px;
         opacity: 100 !important;
         z-index: 9 !important;
-<<<<<<< HEAD
     }
 
     .activity-icon {
@@ -1977,9 +1967,6 @@
         to {
             background-position: 300% center;
         }
-    }
-
-=======
     }
 
     .activity-icon {
@@ -5807,7 +5794,6 @@
         }
     }
 
->>>>>>> 80046e19375a1e1245a4faff854ca4e94da3e91c
     @keyframes shine {
         to {
             background-position: 300% center;
@@ -5824,7 +5810,6 @@
         to {
             background-position: -300% center;
         }
-<<<<<<< HEAD
     }
 
     #app-mount .userPopout-2j1gM4 {
@@ -8826,7 +8811,5 @@
         to {
             text-shadow: rgba(0, 30, 255, 0.5) 2.62088px 0 1px, rgba(255, 0, 80, 0.3) -2.62088px 0 1px, 0 0 3px;
         }
-=======
->>>>>>> 80046e19375a1e1245a4faff854ca4e94da3e91c
     }
 }
