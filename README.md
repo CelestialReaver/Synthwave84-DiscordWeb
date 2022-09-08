@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif"><img src="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif" title="source: github.com" /></a></h1>
-<p align="center">A unique retro theme that provides the perfect glow and vibe to your Discord web client.</p>
+<p align="center">A unique retro theme that provides the perfect glow and vibe to your Discord.</p>
 
 </br>
 
@@ -18,6 +18,14 @@
 <p align="left"><b>Status Marquee</b>:</p>
 
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/MarqueeStatus.gif)
+
+<p align="left"><b>Clean and Animated Spotify Controls </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SpotifyControls.gif)
+
+<p align="left"><b>Animated Emoji and Sticker Matching </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/InteractiveMatching.gif)
 
 ## Screenshots
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/synthwaveCoverGif.gif)
@@ -38,6 +46,8 @@ You need to have the Stylish browser add-on installed in either Chrome or Firefo
 * <a href="https://addons.mozilla.org/en-US/firefox/addon/stylish/">Firefox</a>
 
 Once the extension is installed go to the <a href="https://userstyles.org/styles/245597/synthwave-84">Synthwave '84</a> page and click on _Install Style_.
+
+>While not required, I recommend you install this theme as a userscript. You can find that option on the URL above, scroll down and clicking on _Install style as userscript_. I recommend this because some of the built-in animations won't work otherwise. Again, not required to enjoy the overall look and feel of the theme!
 
 That's it! You can now enjoy the Synthwave '84 theme in the Discord web client.
 ## Misc
